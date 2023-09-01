@@ -2,3 +2,8 @@
 
 1. Ecrire, compiler et exécuter un programme qui affiche le produit
 de deux entiers saisis l'un après l'autre par l'utilisateur
+
+2. Ecrire, compiler et exécuter un programme qui demande une température
+à l'utilisateur (exprimée en Celsius) et qui affiche la valeur en Fahrenheit
+Si la valeur saisie n'est pas comprise en -50 et +50 degrés Celsius le 
+programme s'arrête en affichant "Mauvaise saisie" et retourne 1
