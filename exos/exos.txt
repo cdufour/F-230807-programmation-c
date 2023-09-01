@@ -7,3 +7,9 @@ de deux entiers saisis l'un après l'autre par l'utilisateur
 à l'utilisateur (exprimée en Celsius) et qui affiche la valeur en Fahrenheit
 Si la valeur saisie n'est pas comprise en -50 et +50 degrés Celsius le 
 programme s'arrête en affichant "Mauvaise saisie" et retourne 1
+
+3. Ecrire, compiler et exécuter un programme qui demande à utilisateur de saisir    
+un mot de passe.
+Mot de passe attendu: 1234.
+Si le mot de passe saisi est le bon, le programme affiche "Tu passes", sinon
+il affiche "Tu ne passes pas".
