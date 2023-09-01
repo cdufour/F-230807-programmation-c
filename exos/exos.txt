@@ -13,3 +13,12 @@ un mot de passe.
 Mot de passe attendu: 1234.
 Si le mot de passe saisi est le bon, le programme affiche "Tu passes", sinon
 il affiche "Tu ne passes pas".
+
+4. Ecrire, compiler et exécuter un programme qui demande à utilisateur de saisir    
+une vitesse détectée par un radar routier.
+On dispose de la vitesse maximale: 80
+Si la vitesse détectée est supérieure de 10 km, afficher la sanction "amende de 50 EUR"
+Si la vitesse détectée est supérieure de 20 km, afficher la sanction "amende de 100 EUR"
+Si la vitesse détectée est supérieure de 30 km, afficher la sanction "retrait de permis"
+Si la vitesse détectée est supérieure de 40 km, afficher la sanction "prison"
+Si la vitesse détectée est supérieure de 50 km, afficher la sanction "chaise électrique"
