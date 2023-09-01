@@ -1,0 +1,4 @@
+*** exos ***
+
+1. Ecrire, compiler et exécuter un programme qui affiche le produit
+de deux entiers saisis l'un après l'autre par l'utilisateur
