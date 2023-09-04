@@ -41,14 +41,15 @@ Pour ce tableau: float myFloats[] = {25.5, 50.20, 75.35};
 - calcule et affiche la somme des éléments qu'il contient
 - calcule et affiche le nombre de valeurs comprises entre 30.0 et 60.0
 
-8. Ecrire un programme affichant la valeur min et max dans un tableau
+8. Ecrire un programme affichant la valeur min et la valeur max d'un tableau
 Valeurs du tableau: 45, 25, 21
 Résultat attendu:
 L'élément max est: 45
 L'élément min est: 21
 
 9. Ecrire un programme répartissant les entiers pairs et impaires
-dans d'un tableau de départ dans deux autres tableaux
+dans d'un tableau de départ dans deux autres tableaux.
+Les 3 tableaux seront de longueur 5.
 Tableau de départ: 25, 47, 42, 56, 32
 Résultat attendu
 Les éléments pairs: 42 56 32
