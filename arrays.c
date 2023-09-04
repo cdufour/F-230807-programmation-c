@@ -29,7 +29,7 @@ int main()
     }
 
 
-    const TAXES_LEN = 3;
+    const int TAXES_LEN = 3;
     float taxes[TAXES_LEN] = {5.5, 19.6, 20.0};
     int l;
     puts("*** Parcours (boucle for) ***");
