@@ -35,3 +35,8 @@ affichera en fonction de la réponse de l'utilisateur:
  - "c'est moins" si le nombre saisi est supérieur au nombre caché
 Tant que l'utilisateur n'a pas trouvé le nombre caché, on lui demande la saisie
 En option: indiquer en combien de coups, le nombre caché a été trouvé
+
+7. Ecrire, compiler et exécuter un programme qui
+Pour ce tableau: float myFloats[] = {25.5, 50.20, 75.35};
+- calcule et affiche la somme des éléments qu'il contient
+- calcule et affiche le nombre de valeurs comprises entre 30.0 et 60.0
