@@ -27,3 +27,11 @@ Si la vitesse détectée est supérieure de 50 km, afficher la sanction "chaise 
 un chiffre. Tant que l'utilisateur ne saisit pas la valeur "0",
 on lui redemande la saisie d'un chiffre.
 En sortie de boucle, on affichera la somme des valeurs saisies.
+
+6. Ecrire, compiler et exécuter un programme qui propose à l'utilisateur
+de deviner un nombre caché (exemple: 560) et
+affichera en fonction de la réponse de l'utilisateur:
+ - "c'est plus" si le nombre saisi est inférieur au nombre caché
+ - "c'est moins" si le nombre saisi est supérieur au nombre caché
+Tant que l'utilisateur n'a pas trouvé le nombre caché, on lui demande la saisie
+En option: indiquer en combien de coups, le nombre caché a été trouvé
