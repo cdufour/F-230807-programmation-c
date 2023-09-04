@@ -47,7 +47,7 @@ Résultat attendu:
 L'élément max est: 45
 L'élément min est: 21
 
-9. Ecrire un programme répartissant les entiers pairs et impaires
+9. Ecrire un programme répartissant les entiers pairs et impairs
 dans d'un tableau de départ dans deux autres tableaux.
 Les 3 tableaux seront de longueur 5.
 Tableau de départ: 25, 47, 42, 56, 32
@@ -55,7 +55,7 @@ Résultat attendu
 Les éléments pairs: 42 56 32
 Les éléments impairs: 25 47
 
-10. Ecrire un programme qui lit des 10 entiers depuis le clavier
-et les stoquer dans un tableau.
+10. Ecrire un programme qui lit 4 entiers depuis le clavier
+et les stoque dans un tableau.
 Afficher ces mêmes entiers dans l'ordre inverse de leur saisie.
 
