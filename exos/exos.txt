@@ -97,10 +97,17 @@ Concaténation: Madame Bovary
 Saisir une chaîne: toto
 En majuscules: TOTO
 
-16. Ecrire un programme qui compte le total de voyelle et de consonnes dans une chaîne.
+16. Ecrire un programme qui compte le total de voyelles et de consonnes dans une chaîne.
 Utiliser le switch/case.
 
 --- Sortie attendue ---
 Saisir une chaîne:  Toto
 Nombre de voyelles: 2
 Nombre de consonnes: 2
+
+
+17. Ecrire un programme demandant la saisie de 3 chiffres.
+Les chiffres seront stockés dans un tableau.
+Itérer le tableau afin d'afficher les adresses mémoires
+Remplacer chaque élément du tableau par son double.
+Utiliser les pointers et la déréfenciation.
