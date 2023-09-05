@@ -59,6 +59,22 @@ Les éléments impairs: 25 47
 et les stoque dans un tableau.
 Afficher ces mêmes entiers dans l'ordre inverse de leur saisie.
 
-11. Ecrire un programme qui indique si 2 matrices sont indentiques
+11. Ecrire un programme qui indique si 2 matrices sont identiques
 Créer deux variables tableau à deux dimensions pour tester votre programme.
+
+12. Ecrire un programme additionnant les deux matrices suivantes:
+Matrice1:
+1 1 1
+2 2 2
+3 3 3
+
+Matrice2:
+4 4 4
+3 3 3
+2 2 2
+
+Résultat attendu:
+5 5 5
+5 5 5
+5 5 5
 
