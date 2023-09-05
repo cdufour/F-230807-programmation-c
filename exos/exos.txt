@@ -59,3 +59,6 @@ Les éléments impairs: 25 47
 et les stoque dans un tableau.
 Afficher ces mêmes entiers dans l'ordre inverse de leur saisie.
 
+11. Ecrire un programme qui indique si 2 matrices sont indentiques
+Créer deux variables tableau à deux dimensions pour tester votre programme.
+
