@@ -86,7 +86,14 @@ Utiliser une boucle while.
 par l'utilisateur.
 Note: ne pas utiliser de fonction d'aide (ex: strcat)
 
-Sortie attendue:
+--- Sortie attendue ---
 Saisir chaîne 1: Madame
 Saisir chaîne 2: Bovary
 Concaténation: Madame Bovary
+
+15. Ecrire un  programme qui converti une chaîne saisie en majuscule
+
+--- Sortie attendue ---
+Saisir une chaîne: toto
+En majuscules: TOTO
+
