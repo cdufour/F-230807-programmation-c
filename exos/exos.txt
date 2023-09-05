@@ -78,7 +78,7 @@ Résultat attendu:
 5 5 5
 5 5 5
 
-13. Ecrire un programme affichant la longueur d'une chaîne de caractère saisie
+13. Ecrire un programme affichant la longueur d'une chaîne de caractères saisie
 par l'utilisateur.
 Utiliser une boucle while.
 
@@ -90,4 +90,3 @@ Sortie attendue:
 Saisir chaîne 1: Madame
 Saisir chaîne 2: Bovary
 Concaténation: Madame Bovary
- Concatenated strings = computer languages
