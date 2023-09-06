@@ -147,11 +147,17 @@ en utilisant une fonction
 Somme de la série: 34
 
 23. Ecrire un programme qui convertit un nombre décimal en nombre binaire
-en utilisant une fonction
+en utilisant une fonction.
 
 -- Sortie attendue --
 Saisir un nombre en base 10: 65
 La valeur binaire de 65 est 1000001 
+
+24. Ecrire un programme déterminant si un nombre est premier ou pas
+en utilisant une fonction. Fournir le nombre via la ligne de commande.
+
+
+
  
 
 
