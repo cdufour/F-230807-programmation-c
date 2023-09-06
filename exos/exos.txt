@@ -133,4 +133,25 @@ chaîne de caractères en utilisant un pointeur.
 Chaîne: Bonjour les amis
 Nombre de 'e': 1
 
+21. Ecrire un programme qui vérifie sur un chiffre donné est pair ou impair
+en utilisant une fonction
+
+-- Sortie attendue --
+Saisir un chiffre: 9
+9 est impair
+ 
+22. Ecrire un programme qui trouve la somme de la série 1!/1+2!/2+3!/3+4!/4+5!/5
+en utilisant une fonction
+
+-- Sortie attendue --
+Somme de la série: 34
+
+23. Ecrire un programme qui convertit un nombre décimal en nombre binaire
+en utilisant une fonction
+
+-- Sortie attendue --
+Saisir un nombre en base 10: 65
+La valeur binaire de 65 est 1000001 
+ 
+
 
