@@ -124,6 +124,13 @@ Somme: 11
 --- Sortie attendue ---
 Nombre1: 5
 Nombre2: 6
-Maximum: 6 
+Maximum: 6
+
+20. Ecrire un programme qui compte le nombre de lettres 'e' contenu dans une
+chaîne de caractères en utilisant un pointeur.
+
+--- Sortie attendue ---
+Chaîne: Bonjour les amis
+Nombre de 'e': 1
 
 
