@@ -111,3 +111,19 @@ Les chiffres seront stockés dans un tableau.
 Itérer le tableau afin d'afficher les adresses mémoires
 Remplacer chaque élément du tableau par son double.
 Utiliser les pointers et la déréfenciation.
+
+18. Ecrire un programme additionnant deux nombres en utilisant des pointeurs.
+
+--- Sortie attendue ---
+Nombre1: 5
+Nombre2: 6
+Somme: 11
+
+19. Ecrire un programme trouvant le maximum de deux nombre en utilisant des pointeurs
+
+--- Sortie attendue ---
+Nombre1: 5
+Nombre2: 6
+Maximum: 6 
+
+
