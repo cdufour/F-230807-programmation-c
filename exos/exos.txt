@@ -156,6 +156,13 @@ La valeur binaire de 65 est 1000001
 24. Ecrire un programme déterminant si un nombre est premier ou pas
 en utilisant une fonction. Fournir le nombre via la ligne de commande.
 
+25. Ecrire un programme qui effectue un décalage de 1 position (ascii)
+pour chaque caractère d'une chaîne fournie en entrée (ligne de commande).
+Utiliser une fonction.
+
+--- Sortie attendue ---
+Chaîne: toto
+Chaîne décalée: upup
 
 
  
