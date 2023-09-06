@@ -1,46 +1,40 @@
+
 #include <stdio.h>
+#include <stdlib.h> 
 
-void nbPremier(int nb)
-{
-
-    int d;
-    int tabd[100];
-    int i = 0;
-
-    // printf("Entrer un nombre entier : ");
-    // scanf("%d", &nb);
-
-    d = nb;
-
-    while (d != 0)
-    {
-        if ((nb % d) == 0)
-        {
-            tabd[i] = d;
-            i++;
-            printf("%d est divisible par %d\n", nb, d);
-        }
-        else
-        {
-            printf("%d n'est pas divisible par %d\n", nb, d);
-        }
-        d--;
-    }
-
-    if (tabd[0] == nb && tabd[1] == 1)
-    {
-        printf("%d est un nombre premier !", nb);
-    }
-    else
-    {
-        printf("%d n'est pas un nombre premier !\n", nb);
-    }
-}
+int PrimeOrNot(int);
 
 int main(int argc, char *argv[])
 {
+    int n1, prime;
+    printf("\n\n Function : check whether a number is prime number or not :\n");
+    printf("---------------------------------------------------------------\n");
 
-    nbPremier(*argv[1] - 48);
+    //printf(" Input a positive number : ");
+    //scanf("%d", &n1);
 
+    n1 = atoi(argv[1]);
+    prime = PrimeOrNot(n1);
+
+    if (prime == 1)
+        printf(" The number %d is a prime number.\n", n1);
+    else
+        printf(" The number %d is not a prime number.\n", n1);
     return 0;
 }
+
+int PrimeOrNot(int n1)
+{
+    int i = 2;
+    while (i <= n1 / 2)
+    {
+        //printf("i: %d, n1: %d, n1/2: %d\n", i, n1, n1/2);
+        //printf("n1 mod i: %d\n", n1 % i);
+        if (n1 % i == 0)
+            return 0;
+        else
+            i++;
+    }
+    return 1;
+}
+
