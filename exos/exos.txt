@@ -182,8 +182,18 @@ la femme est plus âgée que l'homme.
 deux flottants x et y.
 Définir et initialiser un tableau de 5 points. Itérer sur le tableau afin
 de doubler la valeur des membres x et y qu'il contient via une fonction.
-Faire la mise à jour par référence.
+Faire la mise à jour par pointeur.
 
+29. Ecrire un programme qui prend en entrée trois noms de fichier
+Le programme produira en sortie un fichier qui contiendra
+le contenu de deux fichiers fusionnés.
+Les noms des fichiers d'entrée et de sortie seront transmis
+au programme par la ligne de commande.
+
+Exemple: ./exo11 file1.txt file2.txt merge.dat
+Si le fichier file1.txt contient: "Christophe est"
+Et que le fichier file2.txt contient: " un super prof"
+Le fichier merge.dat contiendra "Christophe est un super prof"
 
  
 
