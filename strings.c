@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 int main() {
     char greetings[] = "Salut les amis";
@@ -15,5 +16,19 @@ int main() {
     printf("%lu\n", sizeof(greetings2)); // 13
     printf("%lu\n", sizeof(greetings3)); // 13 (le null charactere est décompté également)
   
+    //
+    char str[10];
+
+    //str = "toto";
+    strcpy(str, "toto");
+    printf("%s\n", str);
+
+    strcpy(str, "Del Piero");
+    printf("%s\n", str);
+
+    str[0] = 'P';
+    printf("%s\n", str);
+
+
     return 0;
 }

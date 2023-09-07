@@ -169,6 +169,21 @@ dans la représentation binaire d'un un entier
 
 Par exemple, pour l'entier 5 (0000 0101), il y a 2 fois le bit 1
 
+27. Ecrire un programme qui crée une structure "Couple" contenant
+deux entiers représentant l'âge d'une femme et l'âge d'un homme.
+Le programme demandera à l'utilisateur combien de couples il souhaite
+enregistrer puis proposera de saisir l'âge de la femme et de homme 
+pour autant de couples qu'indiqué.
+Il l'issue de la saisie, on affichera le pourcentage de couples où
+la femme est plus âgée que l'homme.
+
+
+28. Ecrire un programme définisant une structure "Point" contenant
+deux flottants x et y.
+Définir et initialiser un tableau de 5 points. Itérer sur le tableau afin
+de doubler la valeur des membres x et y qu'il contient via une fonction.
+Faire la mise à jour par référence.
+
 
  
 
