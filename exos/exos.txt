@@ -164,6 +164,11 @@ Utiliser une fonction.
 Chaîne: toto
 Chaîne décalée: upup
 
+26. Ecrire un programme qui compte le nombre de 1 (au niveau binaire)
+dans la représentation binaire d'un un entier
+
+Par exemple, pour l'entier 5 (0000 0101), il y a 2 fois le bit 1
+
 
  
 
