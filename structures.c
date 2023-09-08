@@ -25,6 +25,9 @@ int main()
 
     print_title(&book1);
 
+    printf("book1 size: %lu\n", sizeof(book1));
+    printf("book2 size: %lu\n", sizeof(book2));
+
     return 0;
 }
 
