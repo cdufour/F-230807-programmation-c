@@ -195,6 +195,9 @@ Si le fichier file1.txt contient: "Christophe est"
 Et que le fichier file2.txt contient: " un super prof"
 Le fichier merge.dat contiendra "Christophe est un super prof"
 
+30. Ecrire un programme réalisant une division.
+Traiter l'erreur que constitue une division par zéro.
+
  
 
 

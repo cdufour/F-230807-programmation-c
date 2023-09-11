@@ -29,6 +29,9 @@ int main(int argc, char* argv[])
     printf("Figure : \n");
 
     DoublePoints(Figure, PENTAGONE);
+    DoublePoints(Figure, PENTAGONE);
+
+
 
     return EXIT_SUCCESS; // ==> return 0;
 }
