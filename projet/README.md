@@ -106,10 +106,6 @@ secu_crypt -e -k abcde -f file1.png => output: fichier secu_file1.png.enc (fichi
 secu_crypt -d -k abcde -f secu_file1.png.enc => output: fichier secu_file1.png (fichier décrypté)  
 <br>
 <br>
-Rédiger un script python itérant sur la totalité d’un dossier afin de crypter l’ensemble des fichiers s’y trouvant.  
-Le script exécutera le programme secu_crypt sous forme de sous-processus.  
-Il affichera dans la console, à chaque encryptage, un log de type “Fichier xxx encrypté”.  
-Lien (vidéo youtube sur Python subprocess): https://youtu.be/2Fp1N6dof0Y  
 
 ### secu_generator 
 Le programme générera au choix:  
