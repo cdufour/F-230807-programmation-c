@@ -218,6 +218,13 @@ Par le biais d'une fonction, calculer la moyenne de buts inscrits
 (nombre total de buts / nombre de joueurs).
 Afficher cette moyenne.
 
+34.
+a. Détailler la ligne de commande suivante:
+gcc -Wextra -Wall -std=c11 -g -c Point.c
+
+b. A quoi correspondent les fichiers .o et combien les obtient-on ? 
+Sont-ils exécutables ? Si non, quoi sont-ils destinés ?
+
 
 
  

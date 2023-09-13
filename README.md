@@ -15,3 +15,4 @@
 - [Fonction memset](https://koor.fr/C/cstring/memset.wp)
 - [ASCII Table](https://www.asciitable.com/)
 - [Number conversion](https://www.rapidtables.com/convert/number/index.html)
+- [Process Management](https://youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn&si=SaP1khdaiJybONYM)
