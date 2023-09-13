@@ -199,14 +199,16 @@ Le fichier merge.dat contiendra "Christophe est un super prof"
 Traiter l'erreur que constitue une division par zéro.
 
 31. Ecrire un programme copiant une partie de tableau statique 
-dans une espace mémoire dynamique alloué.
-La portion a copié sera passé en ligne d'argument.
-Afficher la liste des éléments copiés
+(créer et initialiser une variable tableau de votre programme)
+dans une espace mémoire dynamiquement alloué.
+La longueur de la portion à copier sera obtenue par la ligne de commande.
+Afficher la liste des éléments copiés.
 
 
 32. Ecrire un programme demadant à l'utilisateur combien de 
-chiffre il souhaite saisir puis lui demandant tour à tour un chiffre.
-Stocker ces chiffres dans une zone dynamiquement alloué
+chiffres il souhaite saisir puis qui demande tour à tour un chiffre
+(chiffre1, chiffre2, etc.).
+Stocker ces chiffres dans une zone dynamiquement allouée.
 Afficher leur somme.
 
 
