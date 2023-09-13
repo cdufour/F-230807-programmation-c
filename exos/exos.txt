@@ -204,12 +204,18 @@ dans une espace mémoire dynamiquement alloué.
 La longueur de la portion à copier sera obtenue par la ligne de commande.
 Afficher la liste des éléments copiés.
 
-
-32. Ecrire un programme demadant à l'utilisateur combien de 
+32. Ecrire un programme demandant à l'utilisateur combien de 
 chiffres il souhaite saisir puis qui demande tour à tour un chiffre
 (chiffre1, chiffre2, etc.).
 Stocker ces chiffres dans une zone dynamiquement allouée.
 Afficher leur somme.
+
+33. Ecrire un programme prenant le fichier players.csv entrée.
+Créer une structure Player correspondant aux entêtes du fichier.
+Le programme placera les données du fichier dans une zone de mémoire
+dynamiquement allouée.
+Par le biais d'une fonction, calculer la moyenne de buts inscrits
+(nombre total de buts / nombre de joueurs).
 
 
 
