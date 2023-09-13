@@ -210,12 +210,13 @@ chiffres il souhaite saisir puis qui demande tour à tour un chiffre
 Stocker ces chiffres dans une zone dynamiquement allouée.
 Afficher leur somme.
 
-33. Ecrire un programme prenant le fichier players.csv entrée.
+33. Ecrire un programme prenant le fichier players.csv en entrée.
 Créer une structure Player correspondant aux entêtes du fichier.
 Le programme placera les données du fichier dans une zone de mémoire
 dynamiquement allouée.
 Par le biais d'une fonction, calculer la moyenne de buts inscrits
 (nombre total de buts / nombre de joueurs).
+Afficher cette moyenne.
 
 
 
