@@ -198,6 +198,19 @@ Le fichier merge.dat contiendra "Christophe est un super prof"
 30. Ecrire un programme réalisant une division.
 Traiter l'erreur que constitue une division par zéro.
 
+31. Ecrire un programme copiant une partie de tableau statique 
+dans une espace mémoire dynamique alloué.
+La portion a copié sera passé en ligne d'argument.
+Afficher la liste des éléments copiés
+
+
+32. Ecrire un programme demadant à l'utilisateur combien de 
+chiffre il souhaite saisir puis lui demandant tour à tour un chiffre.
+Stocker ces chiffres dans une zone dynamiquement alloué
+Afficher leur somme.
+
+
+
  
 
 
