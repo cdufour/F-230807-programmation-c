@@ -21,21 +21,21 @@ file_merge -u files.merge => output: fichiers file1.png file2.png file3.png
 
 ### html_checker
 Le programme vérifiant  le bon format (partiel) d'un fichier html. 
-Le programme vérifiera que chaque balise ouvrante parmis celles recherchées est accompagnée de la balise fermante correspondante. 
+Le programme vérifiera que chaque balise ouvrante parmis celles recherchées est accompagnée de la balise fermante correspondante.   
 Balises recherchées: 
 ```
 <strong>, <p>, <h1>, <h2>, <a>
 ```
 
 __Exemples d'utilisation de la commande:__  
-html_checker file.html => output: ok 
+html_checker file.html => output: ok   
 html_checker file_bad.html => output: not ok 
 <br>
 <br>
 
 ### base_converter
 Programme donnant deux autres bases à partir d'une fournie en entrée. 
-Bases prises en compte: binaire (2), décimale (10), hexadécimale (16)
+Bases prises en compte: binaire (2), décimale (10), hexadécimale (16)   
 Option indiquant la base de départ: -b (2, 10, 16) 
 
 __Exemples d'utilisation de la commande:__  
