@@ -222,8 +222,22 @@ Afficher cette moyenne.
 a. Détailler la ligne de commande suivante:
 gcc -Wextra -Wall -std=c11 -g -c Point.c
 
+-Wall : affiche tous les warnings
+-Wextra : affiche les extras
+-std: standard à prendre en compte (c89, c99, c11, c18)
+-g: active affichage du debugger
+-c: produit fichier object (.o)
+
 b. A quoi correspondent les fichiers .o et combien les obtient-on ? 
 Sont-ils exécutables ? Si non, quoi sont-ils destinés ?
+
+Fichiers objets utilisables en associations d'autres fichiers pour
+composer un programme final executable. Typiquement, utile pour
+fichiers de libraries (déjà compilés).
+Obtention, flag -c du compiler gcc.
+Pas exécutables en tant que tels.
+Destinés à être liés (linking) à d'autres fichiers .o mais aussi et surtout
+l'exécutable final.
 
 
 
