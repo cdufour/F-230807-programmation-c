@@ -16,11 +16,11 @@ Le programme, par une option -u, devra "unmerge" le fichier
 Trouver un moyen de stocker dans le fichier de sortie, les informations
 vous permettant de "défusionner" les fichiers par la suite.
 <br>
-Des fichiers de différentes types pourront être fusionnés.
+Des fichiers de différents types pourront être fusionnés.
 
 __Exemples d'utilisation de la commande:__  
 file_merge file1.png file2.png file3.pdf => output: fichier files.merge  
-file_merge -u files.merge => output: fichiers file1.png file2.png file3.png
+file_merge -u files.merge => output: fichiers file1.png file2.png file3.pdf
 <br>
 <br>
 
